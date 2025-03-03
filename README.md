@@ -1,4 +1,4 @@
-# Hi there, I'm Oluwadamilola (Dami) Ibironke 
+# Welcome, I'm Oluwadamilola (Dami) Ibironke 
 
 I'm a Data Engineer based in London, UK, with a passion for turning data into insights and solving real-world challenges. I bring a diverse background in sound engineering, teaching, machine learning and mathematical analysis which helps me approach problems creatively and effectively.
 
